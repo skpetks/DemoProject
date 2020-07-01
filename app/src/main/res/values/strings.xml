@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppDemo</string>
+    <string name="addpayment">Add Payment</string>
+    <string name="Rs">\u20B9</string>
+</resources>
